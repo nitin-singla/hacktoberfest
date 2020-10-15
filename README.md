@@ -18,5 +18,6 @@ I think since you are already here you must be knowing why contributing to open 
 ## Getting Started 
 Since you know why contributing to an open source project might be a great idea, now your next step is to **choose a project you want to contribute to.**
 If you take my suggestion on this topic of where to start, I would say go no further. [This](https://github.com/nitin-singla/hacktoberfest) repo itself is a great place to start since you need to start somewhere ^‿^ 
+
 But, hey, everyone has their own journey, maybe you are a seasoned programmer who is just embarking on their open source journey, then my suggestion would be to go for a project/library you might already be working on, since you already understand the nuances of it and it would be much more easier and fun to contribute there.
 
