@@ -6,6 +6,7 @@ It is October, or should I say it Hacktober? October is a month long celebration
 ## Why Contribute to Open Source?
 I think since you are already here you must be knowing why contributing to open source is a great idea :) But I think this section can turn out to be a great way for you to start contributing (yes, it is that easy!). As an example I would add one point below, others are open to be contributed by you people, the first-timers! 
 * It helps you be a better programmer while helping contribute to the community!
+* You get to work on real software used by millions of people!
 * insert-here (for first timers)
 * insert-here (for first timers)
 * insert-here (for first timers)
