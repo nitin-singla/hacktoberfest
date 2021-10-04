@@ -9,6 +9,7 @@ I think since you are already here you must be knowing why contributing to open 
 * You get to work on real software used by millions of people!
 * Start small, like even fixing typos can be a good starting point!
 * You will get to meet amazing people!
+* Want something in your favourite OSS? You can do it yourself :)
 * insert-here (for first timers)
 * insert-here (for first timers)
 * insert-here (for first timers)
