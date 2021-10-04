@@ -8,6 +8,7 @@ I think since you are already here you must be knowing why contributing to open 
 * It helps you be a better programmer while helping contribute to the community!
 * You get to work on real software used by millions of people!
 * Start small, like even fixing typos can be a good starting point!
+* You will get to meet amazing people!
 * insert-here (for first timers)
 * insert-here (for first timers)
 * insert-here (for first timers)
